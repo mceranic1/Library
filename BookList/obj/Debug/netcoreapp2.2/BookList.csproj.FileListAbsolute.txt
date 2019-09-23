@@ -1,0 +1,16 @@
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\BookList.deps.json
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\BookList.runtimeconfig.json
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\BookList.runtimeconfig.dev.json
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\BookList.dll
+C:\Users\mersihace\LibraryGigi\Library\BookList\obj\Debug\netcoreapp2.2\BookList.csprojAssemblyReference.cache
+C:\Users\mersihace\LibraryGigi\Library\BookList\obj\Debug\netcoreapp2.2\BookList.csproj.CoreCompileInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\BookList\obj\Debug\netcoreapp2.2\BookList.AssemblyInfoInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\BookList\obj\Debug\netcoreapp2.2\BookList.AssemblyInfo.cs
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\BookList.pdb
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\Library DAL.dll
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\Library.Seed.dll
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\Library.Seed.pdb
+C:\Users\mersihace\LibraryGigi\Library\BookList\bin\Debug\netcoreapp2.2\Library DAL.pdb
+C:\Users\mersihace\LibraryGigi\Library\BookList\obj\Debug\netcoreapp2.2\BookList.csproj.CopyComplete
+C:\Users\mersihace\LibraryGigi\Library\BookList\obj\Debug\netcoreapp2.2\BookList.dll
+C:\Users\mersihace\LibraryGigi\Library\BookList\obj\Debug\netcoreapp2.2\BookList.pdb

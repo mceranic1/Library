@@ -1,0 +1,17 @@
+C:\Users\mersihace\LibraryGigi\Library\Library.API\bin\Debug\netcoreapp2.2\Library.API.deps.json
+C:\Users\mersihace\LibraryGigi\Library\Library.API\bin\Debug\netcoreapp2.2\Library.API.runtimeconfig.json
+C:\Users\mersihace\LibraryGigi\Library\Library.API\bin\Debug\netcoreapp2.2\Library.API.runtimeconfig.dev.json
+C:\Users\mersihace\LibraryGigi\Library\Library.API\bin\Debug\netcoreapp2.2\Library.API.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.API\bin\Debug\netcoreapp2.2\Library.API.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.csprojAssemblyReference.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.csproj.CoreCompileInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorAssemblyInfo.cs
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfoInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.AssemblyInfo.cs
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.RazorTargetAssemblyInfo.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.API\bin\Debug\netcoreapp2.2\Library DAL.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.API\bin\Debug\netcoreapp2.2\Library DAL.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.API\obj\Debug\netcoreapp2.2\Library.API.csproj.CopyComplete

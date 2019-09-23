@@ -1,0 +1,14 @@
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\bin\Debug\netcoreapp2.2\Library.Cons.deps.json
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\bin\Debug\netcoreapp2.2\Library.Cons.runtimeconfig.json
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\bin\Debug\netcoreapp2.2\Library.Cons.runtimeconfig.dev.json
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\bin\Debug\netcoreapp2.2\Library.Cons.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\bin\Debug\netcoreapp2.2\Library.Cons.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\obj\Debug\netcoreapp2.2\Library.Cons.csprojAssemblyReference.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\obj\Debug\netcoreapp2.2\Library.Cons.csproj.CoreCompileInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\obj\Debug\netcoreapp2.2\Library.Cons.AssemblyInfoInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\obj\Debug\netcoreapp2.2\Library.Cons.AssemblyInfo.cs
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\obj\Debug\netcoreapp2.2\Library.Cons.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\obj\Debug\netcoreapp2.2\Library.Cons.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\bin\Debug\netcoreapp2.2\Library DAL.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\bin\Debug\netcoreapp2.2\Library DAL.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.Console\obj\Debug\netcoreapp2.2\Library.Cons.csproj.CopyComplete

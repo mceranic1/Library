@@ -1,0 +1,11 @@
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\bin\Debug\netcoreapp2.2\Library DAL.deps.json
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\bin\Debug\netcoreapp2.2\Library DAL.dll
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\obj\Debug\netcoreapp2.2\Library DAL.csprojAssemblyReference.cache
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\obj\Debug\netcoreapp2.2\Library DAL.csproj.CoreCompileInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\obj\Debug\netcoreapp2.2\Library DAL.AssemblyInfoInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\obj\Debug\netcoreapp2.2\Library DAL.AssemblyInfo.cs
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\bin\Debug\netcoreapp2.2\Library DAL.runtimeconfig.json
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\bin\Debug\netcoreapp2.2\Library DAL.runtimeconfig.dev.json
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\bin\Debug\netcoreapp2.2\Library DAL.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\obj\Debug\netcoreapp2.2\Library DAL.dll
+C:\Users\mersihace\LibraryGigi\Library\Library DAL\obj\Debug\netcoreapp2.2\Library DAL.pdb

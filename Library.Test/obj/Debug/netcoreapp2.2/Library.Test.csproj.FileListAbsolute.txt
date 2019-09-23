@@ -1,0 +1,19 @@
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\Library.Test.deps.json
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\Library.Test.runtimeconfig.json
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\Library.Test.runtimeconfig.dev.json
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\Library.Test.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\obj\Debug\netcoreapp2.2\Library.Test.csprojAssemblyReference.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\obj\Debug\netcoreapp2.2\Library.Test.csproj.CoreCompileInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\obj\Debug\netcoreapp2.2\Library.Test.AssemblyInfoInputs.cache
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\obj\Debug\netcoreapp2.2\Library.Test.AssemblyInfo.cs
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\testhost.exe
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\testhost.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\Library.Test.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\obj\Debug\netcoreapp2.2\Library.Test.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\obj\Debug\netcoreapp2.2\Library.Test.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\Library DAL.dll
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\bin\Debug\netcoreapp2.2\Library DAL.pdb
+C:\Users\mersihace\LibraryGigi\Library\Library.Test\obj\Debug\netcoreapp2.2\Library.Test.csproj.CopyComplete
