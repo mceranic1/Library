@@ -25,5 +25,6 @@ namespace Library.Seed
         {
             return decimal.Parse(sheet.Cells[row, col].Value.ToString().Trim());
         }
+        // komentar
     }
 }
